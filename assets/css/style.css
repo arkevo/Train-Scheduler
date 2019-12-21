@@ -1,0 +1,45 @@
+
+body {
+    background-image: url("../images/train.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Helvetica Neue Bold', monospace;
+  }
+table {
+    margin: 10px;
+}
+
+
+/* .jumbotron.board-display {
+    color: #ffffff;
+    background-color: black;
+   */
+}
+.panel.panel-default {
+
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.board-display {
+	
+	background-color: rgb(255, 255, 255);
+	color: #000000;
+}
+.panel-body {
+    padding: 15px;
+    margin-right: 20px;
+}
+h3.panel-title {
+    font-weight: bolder;
+}
+.form-group input {
+    color: #ffffff;
+    background-color: black;
+    border: darkgray 2px solid;
+}
+.btn-info {
+    color: #fff;
+    background-color: #000000;
+    border-color: #ffffff;
+}
